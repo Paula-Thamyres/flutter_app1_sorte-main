@@ -1,3 +1,3 @@
-# app1_sorte
+# app para sorteio de números aleatórios
 
-A new Flutter project.
+Novo projeto desenvolvido em Flutter
